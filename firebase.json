@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "identichat-website",
     "public": "out",
     "ignore": [
       "firebase.json",
